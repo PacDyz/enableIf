@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (variant.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  stdafx.h
+C:\Users\Karol\documents\visual studio 2017\Projects\variant\variant\stdafx.h(6,9): warning : #pragma once in main file [-Wpragma-once-outside-header]
+  #pragma once
+          ^
+  1 warning generated.
+  enableIf.cpp
+  variant.vcxproj -> C:\Users\Karol\documents\visual studio 2017\Projects\variant\Debug\enableIf.exe
+  variant.vcxproj -> C:\Users\Karol\documents\visual studio 2017\Projects\variant\Debug\enableIf.pdb (Partial PDB)
